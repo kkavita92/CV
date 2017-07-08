@@ -1,6 +1,10 @@
 ## Kavita Kalaichelvan
 
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+
 Keen to work in a challenging environment... etc 
+
+## Projects 
 
 ## Skills
 
@@ -23,6 +27,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 #### ANALYTICAL TINGS 
+
+## Experience
+
+**Westbourne Communication** (start_date to end_date)    
+*Your job title*  
+**LSE Student Ambassador** (start_date to end_date)   
+*Your job title*  
+**SPH Reporter** (start_date to end_date)   
+*Your job title*  
 
 
 ## Education
@@ -49,13 +62,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
-## Experience
-
-**Westbourne Communication** (start_date to end_date)    
-*Your job title*  
-**LSE Student Ambassador** (start_date to end_date)   
-*Your job title*  
-**SPH Reporter** (start_date to end_date)   
-*Your job title*  
 
 ## Interests
