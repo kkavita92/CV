@@ -18,7 +18,7 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 | [Boris Bike](https://github.com/kkavita92/azalea) | Done in Week 1 at Makers. Compare it with my other projects to see how far I have come. | Ruby, RSpec |
 | [Azalea](https://github.com/kkavita92/azalea) | A basic testing framework with browser interface. Built from scratch with pure JS. | JavaScript |
 | [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask |
-| [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures. Features include liking pictures, tags and following other users. |  Ruby on Rails, HTML/CSS, RSpec/Capybara |
+| [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures. Features include liking pictures, tags and following other users. |  Ruby on Rails, Carrierwave, Clearance, RSpec/Capybara |
 | [Get Set Bowl](https://github.com/kkavita92/bowling-challenge) | Interactive ten-pin bowling scoresheet. | Javascript, JQuery, HTML/CSS, Jasmine |
 
 
@@ -28,7 +28,7 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 I am a strong communicator, as demonstrated in my years as a LSE Student Ambassador, during which I had to conduct regular university tours and facilitate workshops run by the Widening Participation team. Subsequently, I was awarded Delegate of The Year for my ability to articulate myself in a concise, yet engaging way. 
 
-Some other ways I have honed this skill:
+<b>Some other ways I have honed this skill:</b>
 
 * Selected to mentor at [Codecademy London](https://www.meetup.com/Codecademy-London/) which requires breaking down complex coding concepts into understandable chunks.
 * Represented LSE at Model United Nations conferences and have won Best/Highly Commended delegate awards. 
