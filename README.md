@@ -28,9 +28,9 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 I am a strong communicator, as demonstrated in my years as a LSE Student Ambassador, during which I had to conduct regular university tours and facilitate workshops run by the Widening Participation team. Subsequently, I was awarded Delegate of The Year for my ability to articulate myself in a concise, yet engaging way. Some other ways I have honed this skill: 
 
-* Chosen to be a mentor at Codecademy London which requires breaking down complex coding concepts into understandable chunks.
+* Chosen to be a mentor at [Codecademy London](https://www.meetup.com/Codecademy-London/) which requires breaking down complex coding concepts into understandable chunks.
 * Represented LSE at Model United Nations conferences and have won Best/Highly Commended delegate awards. 
-* Hosted a radio show with LSESU puLSE which tackled different societal issues weekly. 
+* Hosted a radio show with [LSESU PuLSE](http://pulselse.co.uk/) which tackled different societal issues weekly. 
 * Chaired several speaker panels for LSESU UN Society by faciliating conversation between panelists and managing Q&A sessions.
 
 
@@ -41,7 +41,7 @@ I was able to create and implement a bolder vision for the society during my yea
 
 * Managed a 30 member committee with 5 sub-committees.  
 * Held more than 20 events through the year including speaker event with Sir Jeremy Greenstock.
-* Created first ever UK MUN competitive team and training programme and obtained funding for it worth £4000.
+* Created first ever [UK MUN competitive team](http://www.lsesuunsoc.com/teamlse/) and training programme and obtained funding for it worth £4000.
 * Set up [Outreach branch](http://www.lsesuunsoc.com/outreach) for society which supported organisations such as UNHCR, WFP and UNRWA.
 * Initiated inaugural [LSE Youth conference](http://www.lsesuunsoc.com/youthmun-conference-2017/) which made profit of £468 for society.
 
