@@ -26,13 +26,13 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 #### Excellent Communication 
 
-I am a strong communicator, as demonstrated in my years as a LSE Student Ambassador, during which I had to conduct regular university tours and facilitate workshops run by the Widening Participation team. Subsequently, I was awarded Delegate of The Year for my ability to articulate myself in a concise, yet engaging way. Some other ways I have honed this skill: 
+I am a strong communicator, as demonstrated in my years as a LSE Student Ambassador, during which I had to conduct regular university tours and facilitate workshops run by the Widening Participation team. Subsequently, I was awarded Delegate of The Year for my ability to articulate myself in a concise, yet engaging way. 
 
-* Chosen to be a mentor at [Codecademy London](https://www.meetup.com/Codecademy-London/) which requires breaking down complex coding concepts into understandable chunks.
+** Some other ways I have honed this skill:**
+
+* Selected to mentor at [Codecademy London](https://www.meetup.com/Codecademy-London/) which requires breaking down complex coding concepts into understandable chunks.
 * Represented LSE at Model United Nations conferences and have won Best/Highly Commended delegate awards. 
 * Hosted a radio show with [LSESU PuLSE](http://pulselse.co.uk/) which tackled different societal issues weekly. 
-* Chaired several speaker panels for LSESU UN Society by faciliating conversation between panelists and managing Q&A sessions.
-
 
 #### Strong Leadership 
 
@@ -113,7 +113,7 @@ I was able to create and implement a bolder vision for the society during my yea
 * **Participating in hackathons:** Startupbootcamp Halloween Hackathon (Salesforce Challenge Winner), AngelHack 
 * **Travelling:** I documented a hitch-hiking trip I embarked on to raise money for International Rescue Committee [here](https://www.facebook.com/HitchBuskAroundEurope/). 
 * **Competitive ten-pin bowling:** High score of 278. ~~Ask me about lane oiling patterns~~
-* **Reading about behavioral economics:** I find nudge theory fascinating. For the curious, UK has its own ['Nudge Unit'](http://www.behaviouralinsights.co.uk/).
+* **Reading about behavioral economics:** I find nudge theory fascinating. For the curious, UK has a ['Nudge Unit'](http://www.behaviouralinsights.co.uk/).
 
 ## Contact Me
 <p align="center">
