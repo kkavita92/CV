@@ -40,26 +40,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Westbourne Communication** (January 2014 to October 2016)    
+#### Westbourne Communication (January 2014 to October 2016)    
 *Account Executive (Part-Time)*  
 * One
 * Two
-**Palestine Economic Policy Research Institute** (July 2015 to August 2015)   
+
+#### Palestine Economic Policy Research Institute (July 2015 to August 2015)   
 *Economic Research Analyst Intern*  
 * One  
 * Two 
-**London School of Economics & Political Science** (October 2012 to June 2015)   
+
+#### London School of Economics & Political Science (October 2012 to June 2015)   
 *LSE Student Ambassador*
 * Awarded LSE Student Ambassador of the Year' 2015 for dedication and excellence in role. 
 * Delivered campus tours and presentations to international visitors and alumni
 * Facilitated Widening Participation workshops for students aged from Year 6 to Sixth Form to encourage them into university
 * Assisted with data input and analysis of programme feedback surveys
-**Red Steps Entertainment** (January 2014 to June 2015)   
+
+#### Red Steps Entertainment (January 2014 to June 2015)   
 *Co-founder*  
 * Identified profitable opportunities given student demand for wide-ranging productions
 * Successfully pitched events to investors, earning a 41% return on investment 
 * Liaised with other organisations such as Uber and Whisky Mist allowing for cross promotion 
-**SPH Reporter** (start_date to end_date)   
+
+#### SPH Reporter (start_date to end_date)   
 *Your job title*  
 
 
