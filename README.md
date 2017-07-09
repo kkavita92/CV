@@ -12,10 +12,10 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Azalea](https://github.com/kkavita92/azalea) | A basic JS testing framework with browser interface built from scratch | JavaScript |
-| [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting movement of FTSE Index using machine learning | Python, SciKit, Numpy, Pandas, Flask |
-| [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures |  Ruby on Rails, HTML/CSS, RSpec/Capybara |
-| [Get Set Bowl](https://github.com/kkavita92/bowling-challenge) | 'Fake news for millenials', sourcing and summarising articles | Javascript, JQuery, HTML/CSS, Jasmine |
+| [Azalea](https://github.com/kkavita92/azalea) | A basic JS testing framework with browser interface. Built from scratch with pure JS. | JavaScript |
+| [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting movement of FTSE Index using machine learning. | Python, SciKit, Numpy, Pandas, Flask |
+| [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures. Features include liking pictures, tags and following other users. |  Ruby on Rails, HTML/CSS, RSpec/Capybara |
+| [Get Set Bowl](https://github.com/kkavita92/bowling-challenge) | Interactive ten-pin bowling scoresheet | Javascript, JQuery, HTML/CSS, Jasmine |
 
 
 ## Skills
@@ -67,8 +67,10 @@ I have held several leadership positions through university - namely President o
 
 #### London International Model United Nations(September 2013 to June 2014)   
 *Deputy Secretary General (Applications)*
-* One 
-* Two 
+* Ran application system for Europe’s biggest MUN Conference with over 1500 international delegates.
+* Created specifications for first online application system in 13 years and monitored its implementation by liasing with development team.
+* Increased applications by 15% with effective social media marketing strategy.
+* Organised a social at Grand Connaught Room for 800 people which required management of £12,000 budget.
 
 
 ## Education
@@ -88,13 +90,14 @@ I have held several leadership positions through university - namely President o
 
 #### London School of Economics & Political Science 
 
-- BSc Economics (2:1)
+- BSc Economics 
 - Awarded Outstanding Contribution to LSE Student Union in final year
 - LSESU UN Society (President), LSESU STAR (President), Radio DJ at student radio station, LSESU Women's Hockey 2nd Team, LSESU Beaver(Deputy Editor Opinion Section)
 
 
 ## Interests
-* Travelling (with a soft spot for hitch-hiking). I documented a hitch-hiking trip I embarked on to raise money for charity [here](https://www.facebook.com/HitchBuskAroundEurope/). 
+* Travelling, with a soft spot for hitch-hiking. I documented a hitch-hiking trip I embarked on to raise money for charity [here](https://www.facebook.com/HitchBuskAroundEurope/). 
+* Competitive ten-pin bowling (ask me about lane oiling patterns..or not)
 * Weight lifting 
 
 
