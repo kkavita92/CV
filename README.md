@@ -15,7 +15,7 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Boris Bikes](https://github.com/kkavita92/azalea) | Done in Week 1 at Makers. Compare it with my other projects to see how far I have come. | Ruby, RSpec |
+| [Boris Bike](https://github.com/kkavita92/azalea) | Done in Week 1 at Makers. Compare it with my other projects to see how far I have come. | Ruby, RSpec |
 | [Azalea](https://github.com/kkavita92/azalea) | A basic testing framework with browser interface. Built from scratch with pure JS. | JavaScript |
 | [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask |
 | [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures. Features include liking pictures, tags and following other users. |  Ruby on Rails, HTML/CSS, RSpec/Capybara |
@@ -26,23 +26,32 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 #### Excellent Communication 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+My biggest strength lies in my ability to communicate effectively with different groups of people, whether be it in small-group settings or in executing impactful presentations. 
 
-- Experience
-- Achievements
-- Evidence
+I was... based on consistently high feedback I had received from programme directors and workshop attendees highlighting my ability to articulate myself in a concise, yet engaging way. 
+
+Some of them include: 
+
+* Represented my university at Model United Nations conferences and have won Best/Highly Commended delegate awards. 
+* Hosted a radio show with LSESU puLSE which tackled different societal issues weekly. 
+* Chaired several speaker panels for LSESU UN Society by faciliating conversation between panelists and managing Q&A sessions. 
+
 
 #### Strong Leadership 
 
-I have held several leadership positions through university - namely President of the 600-strong Model United Nations Society. I was able to create and implement a bolder vision for the society during my year stint
+I have held several leadership positions through university - namely President of the 600-strong Model United Nations Society. 
+I was able to create and implement a bolder vision for the society during my year stint, launching several programmes which still remain in place three years on. As President, I accomplished the following: 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+* Managed a 30 member committee with 5 sub-committees.  
+* Held more than 20 events through the year including speaker event with Sir Jeremy Greenstock.
+* Created first ever UK MUN competitive team and training programme and obtained funding for it worth £4000.
+* Set up [Outreach branch](http://www.lsesuunsoc.com/outreach) for society which supported organisations such as UNHCR, WFP and UNRWA.
+* Initiated inaugural [LSE Youth conference](http://www.lsesuunsoc.com/youthmun-conference-2017/) which made profit of £468 for society.
 
 
-#### ANALYTICAL TINGS
+#### Keen Analytical Mind
+
+
 
 
 
@@ -103,11 +112,11 @@ I have held several leadership positions through university - namely President o
 
 
 ## Interests
+* **Volunteering at various coding mentorship programmes:** Codecademy and CodeYourFuture
+* **Participating in hackathons:** Startupbootcamp Halloween Hackathon (Salesforce Challenge Winner), AngelHack 
 * **Travelling, with a soft spot for hitch-hiking:** I documented a hitch-hiking trip I embarked on to raise money for International Rescue Committee [here](https://www.facebook.com/HitchBuskAroundEurope/). 
 * **Competitive ten-pin bowling:** High score of 278. ~~Ask me about lane oiling patterns~~
-* **Volunteering at various coding mentorship programmes:**: Codecademy and CodeYourFuture
-* **Participating in hackathons:** Startupbootcamp Halloween Hackathon (Salesforce Challenge Winner), AngelHack 
-
+* **Reading about behavioral economics:** I find nudge theory fascinating. For the curious, UK has its own ['Nudge Unit'](http://www.behaviouralinsights.co.uk/).
 
 ## Contact Me
 <p align="center">
