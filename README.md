@@ -1,8 +1,10 @@
 ## Kavita Kalaichelvan
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact Me](#contact-me)
 
-Keen to work in a challenging environment... etc 
+After a degree in Economics and a law conversion, I stumbled into programming entirely accidentally. Participating in the Startupbootcamp Fintech Hackathon as a business developer not only opened ... 
+
+I am excited about any new opportunities, particularly challenging ones. 
 
 ## Projects 
 
@@ -26,9 +28,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Leadership 
+#### Strong Leadership 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have held several leadership positions through university - namely President of the 600-strong Model United Nations Society. I was able to create and implement a bolder vision for the society during my year stint
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
@@ -63,24 +65,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * Successfully pitched events to investors, earning a 41% return on investment 
 * Liaised with other organisations such as Uber and Whisky Mist allowing for cross promotion 
 
-#### SPH Reporter (start_date to end_date)   
-*Your job title*  
+#### London International Model United Nations(September 2013 to June 2014)   
+*Deputy Secretary General (Applications)*
+* One 
+* Two 
 
 
 ## Education
 
 #### Makers Academy (May 2017 - July 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, JavaScript, Node.js
-- Rspec, Jasmine, Mocha
+- Rspec, Jasmine, Mocha, Chai 
 
 #### BPP Law School (2015-2016)
 
 - Graduate Diploma in Law - Commendation 
+- Modules Completed: EU Law, Contract Law, Equity & Trusts Law, Tort Law, Land Law, Criminal Law, Constitutional Law
 
 #### London School of Economics & Political Science 
 
@@ -88,9 +91,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Awarded Outstanding Contribution to LSE Student Union in final year
 - LSESU UN Society (President), LSESU STAR (President), Radio DJ at student radio station, LSESU Women's Hockey 2nd Team, LSESU Beaver(Deputy Editor Opinion Section)
 
-#### Any other qualifications
-
 
 ## Interests
 * Travelling (with a soft spot for hitch-hiking). I documented a hitch-hiking trip I embarked on to raise money for charity [here](https://www.facebook.com/HitchBuskAroundEurope/). 
 * Weight lifting 
+
+
+## Contact Me
+<p align="center">
+
+<a href="https://medium.com/@kkavita92">
+<img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/kavita-kalaichelvan-06744a62/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>
+
