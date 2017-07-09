@@ -2,7 +2,10 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact Me](#contact-me)
 
-After a degree in Economics and a law conversion, I stumbled into programming entirely accidentally. Participating in the Startupbootcamp Fintech Hackathon as a business developer not only opened ... 
+After a degree in Economics and a law conversion, I stumbled into programming. 
+
+My involvement in various university societies has given me extensive experience in project management and event organisation while my highly analytical Economics degree has allowed me to .... 
+
 
 I am excited about any new opportunities, particularly challenging ones. 
 
@@ -12,8 +15,9 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Azalea](https://github.com/kkavita92/azalea) | A basic JS testing framework with browser interface. Built from scratch with pure JS. | JavaScript |
-| [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting movement of FTSE Index using machine learning. | Python, SciKit, Numpy, Pandas, Flask |
+| [Boris Bikes](https://github.com/kkavita92/azalea) | Done in Week 1 at Makers. Compare it with my other projects to see how far I have come | Ruby, RSpec |
+| [Azalea](https://github.com/kkavita92/azalea) | A basic testing framework with browser interface. Built from scratch with pure JS. | JavaScript |
+| [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask |
 | [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures. Features include liking pictures, tags and following other users. |  Ruby on Rails, HTML/CSS, RSpec/Capybara |
 | [Get Set Bowl](https://github.com/kkavita92/bowling-challenge) | Interactive ten-pin bowling scoresheet | Javascript, JQuery, HTML/CSS, Jasmine |
 
@@ -38,7 +42,10 @@ I have held several leadership positions through university - namely President o
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 
-#### ANALYTICAL TINGS 
+#### ANALYTICAL TINGS
+
+
+
 
 ## Experience
 
@@ -96,13 +103,17 @@ I have held several leadership positions through university - namely President o
 
 
 ## Interests
-* Travelling, with a soft spot for hitch-hiking. I documented a hitch-hiking trip I embarked on to raise money for charity [here](https://www.facebook.com/HitchBuskAroundEurope/). 
+* Travelling, with a soft spot for hitch-hiking. I documented a hitch-hiking trip I embarked on to raise money for International Rescue Committee [here](https://www.facebook.com/HitchBuskAroundEurope/). 
 * Competitive ten-pin bowling (ask me about lane oiling patterns..or not)
-* Weight lifting 
+* Volunteering at various coding mentorship programmes - Codecademy and CodeYourFuture
+* Participating in hackathons - Startupbootcamp Halloween Hackathon (Salesforce Challenge Winner), AngelHack 
 
 
 ## Contact Me
 <p align="center">
+
+<a href="kkavita92@gmail.com">
+<img src="hhttps://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-128.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 <a href="https://medium.com/@kkavita92">
 <img src="https://static1.squarespace.com/static/53457bcae4b0bc890d496d14/t/568ebeee4bf118e7ef8dbef3/1452195567236/medium_logo_detail_icon.png?format=300w" alt="medium" hspace="50" height="42" width="42"></a>
