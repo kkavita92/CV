@@ -79,6 +79,7 @@ I have held several leadership positions through university - namely President o
 - Software Craftsmanship
 - Ruby, Rails, JavaScript, Node.js
 - Rspec, Jasmine, Mocha, Chai 
+- Agile methodologies and XP values
 
 #### BPP Law School (2015-2016)
 
