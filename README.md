@@ -26,15 +26,12 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 #### Excellent Communication 
 
-My biggest strength lies in my ability to communicate effectively with different groups of people, whether be it in small-group settings or in executing impactful presentations. 
+I am a strong communicator, as demonstrated in my years as a LSE Student Ambassador, during which I had to conduct regular university tours and facilitate workshops run by the Widening Participation team. Subsequently, I was awarded Delegate of The Year for my ability to articulate myself in a concise, yet engaging way. Some other ways I have honed this skill: 
 
-I was... based on consistently high feedback I had received from programme directors and workshop attendees highlighting my ability to articulate myself in a concise, yet engaging way. 
-
-Some of them include: 
-
-* Represented my university at Model United Nations conferences and have won Best/Highly Commended delegate awards. 
+* Chosen to be a mentor at Codecademy London which requires breaking down complex coding concepts into understandable chunks.
+* Represented LSE at Model United Nations conferences and have won Best/Highly Commended delegate awards. 
 * Hosted a radio show with LSESU puLSE which tackled different societal issues weekly. 
-* Chaired several speaker panels for LSESU UN Society by faciliating conversation between panelists and managing Q&A sessions. 
+* Chaired several speaker panels for LSESU UN Society by faciliating conversation between panelists and managing Q&A sessions.
 
 
 #### Strong Leadership 
@@ -71,15 +68,15 @@ I was able to create and implement a bolder vision for the society during my yea
 #### London School of Economics & Political Science (October 2012 to June 2015)   
 *LSE Student Ambassador*
 * Awarded LSE Student Ambassador of the Year' 2015 for dedication and excellence in role. 
-* Delivered campus tours and presentations to international visitors and alumni
-* Facilitated Widening Participation workshops for students aged from Year 6 to Sixth Form to encourage them into university
-* Assisted with data input and analysis of programme feedback surveys
+* Delivered campus tours and presentations to international visitors, prospective students and alumni.
+* Facilitated Widening Participation workshops for students aged from Year 6 to Sixth Form to encourage them into university.
+* Assisted with data input and analysis of programme feedback surveys.
 
 #### Red Steps Entertainment (January 2014 to June 2015)   
 *Co-founder*  
-* Identified profitable opportunities given student demand for wide-ranging productions
-* Successfully pitched events to investors, earning a 41% return on investment 
-* Liaised with other organisations such as Uber and Whisky Mist allowing for cross promotion 
+* Identified profitable opportunities given student demand for wide-ranging productions.
+* Successfully pitched events to investors to raise money for venue deposits, earning a 41% return on investment. 
+* Liaised with other organisations such as Uber and Whisky Mist allowing for cross promotion.
 
 #### London International Model United Nations(September 2013 to June 2014)   
 *Deputy Secretary General (Applications)*
@@ -114,7 +111,7 @@ I was able to create and implement a bolder vision for the society during my yea
 ## Interests
 * **Volunteering at various coding mentorship programmes:** Codecademy and CodeYourFuture
 * **Participating in hackathons:** Startupbootcamp Halloween Hackathon (Salesforce Challenge Winner), AngelHack 
-* **Travelling, with a soft spot for hitch-hiking:** I documented a hitch-hiking trip I embarked on to raise money for International Rescue Committee [here](https://www.facebook.com/HitchBuskAroundEurope/). 
+* **Travelling:** I documented a hitch-hiking trip I embarked on to raise money for International Rescue Committee [here](https://www.facebook.com/HitchBuskAroundEurope/). 
 * **Competitive ten-pin bowling:** High score of 278. ~~Ask me about lane oiling patterns~~
 * **Reading about behavioral economics:** I find nudge theory fascinating. For the curious, UK has its own ['Nudge Unit'](http://www.behaviouralinsights.co.uk/).
 
