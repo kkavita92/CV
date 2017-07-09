@@ -11,9 +11,9 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Azalea](https://github.com/kkavita92/azalea) | A basic JS testing framework with browser interface built from scratch | JavaScript |
-| [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting movement of FTSE Index using machine learning | Python |
-| [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures |  Rails, RSpec/Capybara |
-| [Get Set Bowl](https://github.com/kkavita92/bowling-challenge) | 'Fake news for millenials', sourcing and summarising articles | Javascript, AJAX |
+| [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting movement of FTSE Index using machine learning | Python, SciKit, Numpy, Pandas, Flask |
+| [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures |  Ruby on Rails, HTML/CSS, RSpec/Capybara |
+| [Get Set Bowl](https://github.com/kkavita92/bowling-challenge) | 'Fake news for millenials', sourcing and summarising articles | Javascript, JQuery, HTML/CSS, Jasmine |
 
 
 ## Skills
