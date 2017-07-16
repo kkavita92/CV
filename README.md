@@ -110,7 +110,7 @@ I was able to create and implement a bolder vision for the society during my yea
 
 ## Interests
 * **Volunteering at various coding mentorship programmes:** Codecademy and CodeYourFuture
-* **Hackathons:** Startupbootcamp Halloween Hackathon (Salesforce Challenge Winner), AngelHack [Runners-Up](https://github.com/Charliefea/health-on-the-go)
+* **Hackathons:** Startupbootcamp Halloween Hackathon (Salesforce Challenge Winner), AngelHack [(Runners-Up)](https://github.com/Charliefea/health-on-the-go)
 * **Travelling:** I documented a hitch-hiking trip I embarked on to raise money for [IRC](https://www.rescue.org/) [here](https://www.facebook.com/HitchBuskAroundEurope/). 
 * **Competitive ten-pin bowling:** High score of 278. ~~Ask me about lane oiling patterns~~
 * **Reading about behavioral economics:** I find nudge theory fascinating. For the curious, UK has a ['Nudge Unit'](http://www.behaviouralinsights.co.uk/).
