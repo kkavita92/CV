@@ -17,6 +17,7 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 |---        |---         |---           |
 | [Boris Bike](https://github.com/kkavita92/azalea) | Done in Week 1 at Makers. Compare it with my other projects to see how far I have come. | Ruby, RSpec |
 | [Azalea](https://github.com/kkavita92/azalea) | A basic testing framework with browser interface. Built from scratch with pure JS. | JavaScript |
+| [deblocracy](https://github.com/RSijelmass/votingchain) | Voting platform built with Blockchain on Ethereum network. Allows users to create an election cast a vote and verify it has not been tampered with. Completed in 2 weeeks.| Solidity, Truffle, Webpack, web3.js |
 | [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask |
 | [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures. Features include liking pictures, tags and following other users. |  Ruby on Rails, Carrierwave, Clearance, RSpec/Capybara |
 | [Get Set Bowl](https://github.com/kkavita92/bowling-challenge) | Interactive ten-pin bowling scoresheet. | Javascript, JQuery, HTML/CSS, Jasmine |
