@@ -15,9 +15,8 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Boris Bike](https://github.com/kkavita92/azalea) | Done in Week 1 at Makers. Compare it with my other projects to see how far I have come. | Ruby, RSpec |
-| [Azalea](https://github.com/kkavita92/azalea) | A basic testing framework with browser interface. Built from scratch with pure JS. | JavaScript |
-| [deblocracy](https://github.com/RSijelmass/votingchain) | Voting platform built with Blockchain on Ethereum network. Allows users to create an election cast a vote and verify it has not been tampered with. Completed in 2 weeeks.| Solidity, Truffle, Webpack, web3.js |
+| [Azalea](https://github.com/kkavita92/azalea) | A basic testing framework with browser interface. Built from scratch with pure JavaScript. | JavaScript |
+| [deblocracy](https://github.com/RSijelmass/votingchain) | Voting platform built with Blockchain on Ethereum network over 2 weeks. Allows users to create an election cast a vote and verify it has not been tampered with.| Solidity, Truffle, Webpack, web3.js |
 | [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask |
 | [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures. Features include liking pictures, tags and following other users. |  Ruby on Rails, Carrierwave, Clearance, RSpec/Capybara |
 | [Get Set Bowl](https://github.com/kkavita92/bowling-challenge) | Interactive ten-pin bowling scoresheet. | Javascript, JQuery, HTML/CSS, Jasmine |
@@ -73,12 +72,6 @@ I was able to create and implement a bolder vision for the society during my yea
 * Facilitated Widening Participation workshops for students aged from Year 6 to Sixth Form to encourage them into university.
 * Assisted with data input and analysis of programme feedback surveys.
 
-#### Red Steps Entertainment (January 2014 to June 2015)   
-*Co-founder*  
-* Identified profitable opportunities given student demand for wide-ranging productions.
-* Successfully pitched events to investors to raise money for venue deposits, earning a 41% return on investment. 
-* Liaised with other organisations such as Uber and Whisky Mist allowing for cross promotion.
-
 #### London International Model United Nations(September 2013 to June 2014)   
 *Deputy Secretary General (Applications)*
 * Ran application system for Europe’s biggest MUN Conference with over 1500 international delegates.
@@ -93,13 +86,13 @@ I was able to create and implement a bolder vision for the society during my yea
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js
-- Rspec, Jasmine, Mocha, Chai 
+- Ruby, Rails, JavaScript, Node.js, Solidity
+- Rspec, Jasmine, Mocha, Chai, Capybara, Truffle
 - Agile methodologies and XP values
 
 #### BPP Law School (2015-2016)
 
-- Graduate Diploma in Law - Commendation 
+- Graduate Diploma in Law - Commendation 67% 
 - Modules Completed: EU Law, Contract Law, Equity & Trusts Law, Tort Law, Land Law, Criminal Law, Constitutional Law
 
 #### London School of Economics & Political Science 
