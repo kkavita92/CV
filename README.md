@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact Me](#contact-me)
 
-After a degree in Economics and a law conversion, I stumbled into programming. 
+After a degree in Economics and a law conversion, I stumbled into programming during a hackathon and got stuck in it (willingly). 
 
 My involvement in various university societies has given me extensive experience in project management and event organisation while my highly analytical Economics degree has allowed me to .... 
 
@@ -95,7 +95,7 @@ I was able to create and implement a bolder vision for the society during my yea
 - Graduate Diploma in Law - Commendation 67% 
 - Modules Completed: EU Law, Contract Law, Equity & Trusts Law, Tort Law, Land Law, Criminal Law, Constitutional Law
 
-#### London School of Economics & Political Science 
+#### London School of Economics & Political Science (2011-2015)
 
 - BSc Economics 
 - Awarded Outstanding Contribution to LSE Student Union in final year
