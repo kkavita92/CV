@@ -44,9 +44,10 @@ I was able to create and implement a bolder vision for the society during my yea
 
 #### Keen Analytical Mind 
 
-I have done two different degrees - Economics, followed by an intensive 1-year law conversion course which has honed my analytical skills and ability to think critically. Additionally, I love learning new things constantly and am able to do so very quickly which I was able to demonstrate during my time at Makers when I went beyond the standard curriculum to work with new technologies (Blockchain, machine learning, Node.JS). 
+ I love learning new things constantly and am able to do so very quickly. I was able to demonstrate this during my time at Makers when I went beyond the standard curriculum to work with several new technologies (Blockchain, machine learning, Node.JS, Python) and had to pick them up within a short space of time (usually 2-3 days). 
 
 <b>Some other ways I have honed this skill:</b>
+* Completed two different degrees - Economics, 1-year intensive law conversion course requiring strong critical thinking.
 * Selected highly mathematical modules during my Economics degree not limited to Statistics, Econometrics, Economic Policy.
 
 ## Experience
