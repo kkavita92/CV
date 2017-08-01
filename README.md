@@ -21,7 +21,7 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 ## Skills
 
-#### Excellent Communication 
+### Excellent Communication 
 
 I am a strong communicator, as demonstrated in my years as a LSE Student Ambassador, during which I had to conduct regular university tours and facilitate workshops run by the Widening Participation team. Subsequently, I was awarded Delegate of The Year for my ability to articulate myself in a concise, yet engaging way. 
 
@@ -31,7 +31,7 @@ I am a strong communicator, as demonstrated in my years as a LSE Student Ambassa
 * Represented LSE at Model United Nations conferences and have won Best/Highly Commended delegate awards. 
 * Hosted a radio show with [LSESU PuLSE](http://pulselse.co.uk/) which tackled different societal issues weekly. 
 
-#### Strong Leadership 
+### Strong Leadership 
 
 I have held several leadership positions through university - namely President of the 600-strong Model United Nations Society. 
 I was able to create and implement a bolder vision for the society during my year stint, launching several programmes which still remain in place three years on. As President, I accomplished the following: 
@@ -42,7 +42,7 @@ I was able to create and implement a bolder vision for the society during my yea
 * Set up [Outreach branch](http://www.lsesuunsoc.com/outreach) for society which supported organisations such as UNHCR, WFP and UNRWA.
 * Initiated inaugural [LSE Youth conference](http://www.lsesuunsoc.com/youthmun-conference-2017/) which made profit of £468 for society.
 
-#### __Keen Analytical Mind__ 
+#### Keen Analytical Mind 
 
  I love learning new things constantly and am able to do so very quickly. I was able to demonstrate this during my time at Makers when I went beyond the standard curriculum to work with several new technologies (blockchain, machine learning, Node.js, Python) and had to pick them up within a short space of time (usually 2-3 days). 
 
