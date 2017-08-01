@@ -48,8 +48,8 @@ I was able to create and implement a bolder vision for the society during my yea
 
 <b>Some other ways I have honed this skill:</b>
 * Completed two different degrees - Economics, 1-year intensive law conversion course requiring strong critical thinking.
-* Selected highly mathematical modules during my Economics degree not limited to Statistics, Econometrics, Economic Policy.
-* Worked with processing and summarising 10 years of Palestine's annual budget records during my role as an economic research intern.
+* Selected highly mathematical modules during my Economics degree such as Statistics, Econometrics, Economic Policy.
+* Worked with processing and summarising 10 years of Palestine's annual budget during my role as an economic research intern.
 
 ## Experience
 
