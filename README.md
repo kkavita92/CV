@@ -42,17 +42,17 @@ I was able to create and implement a bolder vision for the society during my yea
 * Set up [Outreach branch](http://www.lsesuunsoc.com/outreach) for society which supported organisations such as UNHCR, WFP and UNRWA.
 * Initiated inaugural [LSE Youth conference](http://www.lsesuunsoc.com/youthmun-conference-2017/) which made profit of £468 for society.
 
-
 ## Experience
 
 #### Westbourne Communication (January 2014 to October 2016)    
 *Account Executive (Part-Time)*  
-* Part of the stakeholder management team which helped clients develop better understanding with their various stakeholders.
-* Worked on clients such as Western Power Distribution and Peabody Trust. 
+* Worked with clients (Western Power Distribution, Peabody Trust) to develop their relationships with key stakeholders.
+* Analysed stakeholder feedback for Peabody's new development launch and wrote key-impact report .
+* Assisted in running and delivering Western Power Distribution's national stakeholder engagement workshops. 
 
 #### Palestine Economic Policy Research Institute (July 2015 to August 2015)   
 *Economic Research Analyst Intern*  
-* Assisted with writing research paper on efficient management of aid to Palestine in view of developing its economic future.
+* Part of the team researching efficient management of aid to Palestine in view of developing its economic future.
 * Migrated 10 years of annual budget records from Palestinian Authority (PA) into institute's internal database.
 * Prepared and delivered presentation: "Economic lessons from Singapore to Palestine" 
 
