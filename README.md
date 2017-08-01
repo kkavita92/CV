@@ -4,7 +4,7 @@
 
 After a degree in Economics and a law conversion, I stumbled into programming during a hackathon and got stuck in it (willingly). My involvement in various university societies has given me extensive experience in project management and event organisation while my highly analytical Economics degree has allowed me to think in a precise and logical manner. 
 
-I am excited about any new opportunities, particularly challenging ones where I can solve cool problems and continuously grow as a developer. 
+I am excited about any new opportunities, particularly challenging ones where I can solve cool problems in a diverse environment and continuously grow as a developer. 
 
 ## Projects 
 
@@ -42,7 +42,7 @@ I was able to create and implement a bolder vision for the society during my yea
 * Set up [Outreach branch](http://www.lsesuunsoc.com/outreach) for society which supported organisations such as UNHCR, WFP and UNRWA.
 * Initiated inaugural [LSE Youth conference](http://www.lsesuunsoc.com/youthmun-conference-2017/) which made profit of £468 for society.
 
-#### Keen Analytical Mind 
+#### __Keen Analytical Mind__ 
 
  I love learning new things constantly and am able to do so very quickly. I was able to demonstrate this during my time at Makers when I went beyond the standard curriculum to work with several new technologies (blockchain, machine learning, Node.js, Python) and had to pick them up within a short space of time (usually 2-3 days). 
 
