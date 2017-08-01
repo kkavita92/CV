@@ -42,6 +42,13 @@ I was able to create and implement a bolder vision for the society during my yea
 * Set up [Outreach branch](http://www.lsesuunsoc.com/outreach) for society which supported organisations such as UNHCR, WFP and UNRWA.
 * Initiated inaugural [LSE Youth conference](http://www.lsesuunsoc.com/youthmun-conference-2017/) which made profit of £468 for society.
 
+#### Keen Analytical Mind 
+
+I have done two different degrees - Economics, followed by an intensive 1-year law conversion course which has honed my analytical skills and ability to think critically. Additionally, I love learning new things constantly and am able to do so very quickly which I was able to demonstrate during my time at Makers when I went beyond the standard curriculum to work with new technologies (Blockchain, machine learning, Node.JS). 
+
+<b>Some other ways I have honed this skill:</b>
+* Selected highly mathematical modules during my Economics degree not limited to Statistics, Econometrics, Economic Policy.
+
 ## Experience
 
 #### Westbourne Communication (January 2014 to October 2016)    
