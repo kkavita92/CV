@@ -13,7 +13,7 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Azalea](https://github.com/kkavita92/azalea) | A basic testing framework with browser interface. Built from scratch with pure JavaScript. | JavaScript |
-| [deblocracy](https://github.com/RSijelmass/votingchain) | Voting platform built with Blockchain on Ethereum network over 2 weeks. Allows users to create an election cast a vote and verify it has not been tampered with.| Solidity, Truffle, Webpack, web3.js |
+| [deblocracy](https://github.com/RSijelmass/votingchain) | Voting platform built with Blockchain on Ethereum network over 2 weeks. Allows users to create an election, cast a vote and verify it has not been tampered with.| Solidity, Truffle, Webpack, web3.js |
 | [Make It Rain](https://github.com/tobywinter/makeitrain) | Predicting short and long term movement of FTSE Index using machine learning. First dive into Machine Learning during a group project. | Python, SciKit, Numpy, Pandas, Flask |
 | [Hipstagram](https://github.com/kkavita92/instagram-challenge) | An Instagram clone catering only to the most pretentious pictures. Features include liking pictures, tags and following other users. |  Ruby on Rails, Carrierwave, Clearance, RSpec/Capybara |
 | [Get Set Bowl](https://github.com/kkavita92/bowling-challenge) | Interactive ten-pin bowling scoresheet. | Javascript, JQuery, HTML/CSS, Jasmine |
@@ -52,8 +52,9 @@ I was able to create and implement a bolder vision for the society during my yea
 
 #### Palestine Economic Policy Research Institute (July 2015 to August 2015)   
 *Economic Research Analyst Intern*  
-* Conducted research in two main areas - efficient management of aid to Palestine and forecasting the economic future of Palestine.
-* Compiled and analysed annual budget of Palestinian Authority for institute to conduct further research and reports.
+* Assisted with writing research paper on efficient management of aid to Palestine in view of developing its economic future.
+* Migrated 10 years of annual budget records from Palestinian Authority (PA) into institute's internal database.
+* Prepared and delivered presentation: "Economic lessons from Singapore to Palestine" 
 
 #### London School of Economics & Political Science (October 2012 to June 2015)   
 *LSE Student Ambassador*
