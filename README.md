@@ -2,12 +2,9 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Contact Me](#contact-me)
 
-After a degree in Economics and a law conversion, I stumbled into programming during a hackathon and got stuck in it (willingly). 
+After a degree in Economics and a law conversion, I stumbled into programming during a hackathon and got stuck in it (willingly). My involvement in various university societies has given me extensive experience in project management and event organisation while my highly analytical Economics degree has allowed me to think in a precise and logical manner. 
 
-My involvement in various university societies has given me extensive experience in project management and event organisation while my highly analytical Economics degree has allowed me to .... 
-
-
-I am excited about any new opportunities, particularly challenging ones. 
+I am excited about any new opportunities, particularly challenging ones where I can solve cool problems and continuously grow as a developer. 
 
 ## Projects 
 
@@ -46,24 +43,17 @@ I was able to create and implement a bolder vision for the society during my yea
 * Initiated inaugural [LSE Youth conference](http://www.lsesuunsoc.com/youthmun-conference-2017/) which made profit of £468 for society.
 
 
-#### Keen Analytical Mind
-
-
-
-
-
-
 ## Experience
 
 #### Westbourne Communication (January 2014 to October 2016)    
 *Account Executive (Part-Time)*  
-* One
-* Two
+* Part of the stakeholder management team which helped clients develop better understanding with their various stakeholders.
+* Worked on clients such as Western Power Distribution and Peabody Trust. 
 
 #### Palestine Economic Policy Research Institute (July 2015 to August 2015)   
 *Economic Research Analyst Intern*  
-* One  
-* Two 
+* Conducted research in two main areas - efficient management of aid to Palestine and forecasting the economic future of Palestine.
+* Compiled and analysed annual budget of Palestinian Authority for institute to conduct further research and reports.
 
 #### London School of Economics & Political Science (October 2012 to June 2015)   
 *LSE Student Ambassador*
