@@ -21,17 +21,17 @@ For a complete list, see my [GitHub](https://github.com/kkavita92).
 
 ## Skills
 
-### Excellent Communication 
+#### Excellent Communication 
 
 I am a strong communicator, as demonstrated in my years as a LSE Student Ambassador, during which I had to conduct regular university tours and facilitate workshops run by the Widening Participation team. Subsequently, I was awarded Delegate of The Year for my ability to articulate myself in a concise, yet engaging way. 
 
-<b>Some other ways I have honed this skill:</b>
+<b>*Some other ways I have honed this skill:*</b>
 
 * Selected to mentor at [Codecademy London](https://www.meetup.com/Codecademy-London/) which requires breaking down complex coding concepts into understandable chunks.
 * Represented LSE at Model United Nations conferences and have won Best/Highly Commended delegate awards. 
 * Hosted a radio show with [LSESU PuLSE](http://pulselse.co.uk/) which tackled different societal issues weekly. 
 
-### Strong Leadership 
+#### Strong Leadership 
 
 I have held several leadership positions through university - namely President of the 600-strong Model United Nations Society. 
 I was able to create and implement a bolder vision for the society during my year stint, launching several programmes which still remain in place three years on. As President, I accomplished the following: 
@@ -46,7 +46,7 @@ I was able to create and implement a bolder vision for the society during my yea
 
  I love learning new things constantly and am able to do so very quickly. I was able to demonstrate this during my time at Makers when I went beyond the standard curriculum to work with several new technologies (blockchain, machine learning, Node.js, Python) and had to pick them up within a short space of time (usually 2-3 days). 
 
-<b>Some other ways I have honed this skill:</b>
+<b>*Some other ways I have honed this skill:*</b>
 * Completed two different degrees - Economics, 1-year intensive law conversion course requiring strong critical thinking.
 * Selected highly mathematical modules during my Economics degree such as Statistics, Econometrics, Economic Policy.
 * Worked with processing and summarising 10 years of Palestine's annual budget during my role as an economic research intern.
