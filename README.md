@@ -4,7 +4,7 @@
 
 After a degree in Economics and a law conversion, I stumbled into programming during a hackathon and got stuck in it (willingly). My involvement in various university societies has given me extensive experience in project management and event organisation while my highly analytical Economics degree has allowed me to think in a precise and logical manner. 
 
-I am excited about any new opportunities, particularly challenging ones where I can solve cool problems in a diverse environment and continuously grow as a developer. 
+I am excited about any new opportunities, particularly challenging ones where I can solve cool problems in a diverse environment.
 
 ## Projects 
 
