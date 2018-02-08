@@ -4,7 +4,7 @@
 
 After a degree in Economics and a law conversion, I stumbled into programming during a hackathon and got stuck in it (willingly). My involvement in various university societies has given me extensive experience in project management and event organisation while my highly analytical Economics degree has allowed me to think in a precise and logical manner. 
 
-I am excited about any new opportunities, particularly challenging ones where I can solve cool problems in a diverse environment.
+I am currently working as a Product Developer at Ascential plc where I have the chance to build digital products from scratch for all our brands using mainly Elixir and React. 
 
 ## Projects 
 
@@ -52,6 +52,12 @@ I was able to create and implement a bolder vision for the society during my yea
 * Worked with processing and summarising 10 years of Palestine's annual budget during my role as an economic research intern.
 
 ## Experience
+
+#### Ascential plc (October 2017 to present) 
+*Product Developer* 
+* Working in Ascential Makers team to build cross-brand digital products.
+* Assisting with creating build and deployment pipeline for team's Elixir applications. 
+* Tech stack - Elixir, Ruby, React Native, React.
 
 #### Westbourne Communication (January 2014 to October 2016)    
 *Account Executive (Part-Time)*  
